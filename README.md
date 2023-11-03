@@ -83,8 +83,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 Using the government reported NYC data found [here,](https://www.nyc.gov/site/finance/taxes/property-rolling-sales-data.page) I set out to explore the data       to discover insights and create regression models in hope of predicting the sale price of the property from the rest of the features in the set. This was done entirely within Python mainly using pandas, numpy and scikit learn to process the data and build the regression models.  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -93,7 +91,7 @@ Using the government reported NYC data found [here,](https://www.nyc.gov/site/fi
 
 ### Built With
 
-* [![Python][Python.js]][Python-url]
+* [![Jupyter Lab][Python.js]][Python-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -188,7 +186,8 @@ Project Link: [https://github.com/CTy27/NYC_Real_Estate_EDA](https://github.com/
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
-[Python.js]: https://img.shields.io/pypi/pyversions/:packageName
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[Python.js]: https://img.shields.io/pypi/frameworkversions/jupyterlab/pandas?style=for-the-badge&logo=vuedot&logoColor=FF7F50
 [Python-url]: https://www.python.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
