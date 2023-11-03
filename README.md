@@ -31,13 +31,13 @@
 <br />
 <div align="center">
   <a href="https://github.com/CTy27/NYC_Real_Estate_EDA">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/nyc.jpg" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">NYC Real Estate EDA and Regression Analysis</h3>
 
   <p align="center">
-    Using the government reported NYC data found [here,](https://www.nyc.gov/site/finance/taxes/property-rolling-sales-data.page) I set out to explore the data       to discover insights and create regression models in hope of predicting the sale price of the property from the rest of the features in the set. This was done entirely within Python mainly using pandas, numpy and scikit learn to process the data and build the regression models.  
+    Using the government reported NYC data found <a href="[url](https://www.nyc.gov/site/finance/taxes/property-rolling-sales-data.page)"> here,</a>   I set out to explore the data to discover insights and create regression models in hope of predicting the sale price of the property from the rest of the features in the set. This was done entirely within Python mainly using pandas, numpy and scikit learn to process the data and build the regression models.  
     <br />
     <a href="https://github.com/CTy27/NYC_Real_Estate_EDA"><strong>Explore the docs »</strong></a>
     <br />
@@ -93,14 +93,7 @@ Using the government reported NYC data found [here,](https://www.nyc.gov/site/fi
 
 ### Built With
 
-* [![Python][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* [![Python][Python.js]][Python-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -109,54 +102,35 @@ Using the government reported NYC data found [here,](https://www.nyc.gov/site/fi
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* npm
+
+Access Anaconda [here.](https://www.anaconda.com/download)
+
+Once installed, ensure the relevant packages are installed to your python environment. 
+
   ```sh
-  npm install npm@latest -g
+  pip install pandas
+  pip install numpy
+  pip install scipy
+  pip install sklearn
   ```
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/CTy27/NYC_Real_Estate_EDA.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
+1. Download the (data.)[https://www.nyc.gov/site/finance/taxes/property-rolling-sales-data.page]
+2. Download the (jupyter notebook.)[https://github.com/CTy27/NYC_Real_Estate_EDA/blob/main/New%20York%20Real%20Estate%20-%20EDA%20and%20Regression%20Analysis%20v2.ipynb]
+3. Run the code in the notebook. 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
+- [X] Feature 1
+- [X] Feature 2
+- [X] Feature 3
     - [ ] Nested Feature
 
 See the [open issues](https://github.com/CTy27/NYC_Real_Estate_EDA/issues) for a full list of proposed features (and known issues).
@@ -181,8 +155,6 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- LICENSE -->
 ## License
 
@@ -190,29 +162,14 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - ty.cymbalista@gmail.com
+Ty Cymbalista - ty.cymbalista@gmail.com
 
 Project Link: [https://github.com/CTy27/NYC_Real_Estate_EDA](https://github.com/CTy27/NYC_Real_Estate_EDA)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* []()
-* []()
-* []()
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
