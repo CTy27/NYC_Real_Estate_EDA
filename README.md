@@ -30,23 +30,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/NYC_Real_Estate_EDA">
+  <a href="https://github.com/CTy27/NYC_Real_Estate_EDA">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">NYC Real Estate EDA and Regression Analysis</h3>
 
   <p align="center">
-    project_description
+    Using the government reported NYC data found [here,](https://www.nyc.gov/site/finance/taxes/property-rolling-sales-data.page) I set out to explore the data       to discover insights and create regression models in hope of predicting the sale price of the property from the rest of the features in the set. This was done entirely within Python mainly using pandas, numpy and scikit learn to process the data and build the regression models.  
     <br />
-    <a href="https://github.com/github_username/NYC_Real_Estate_EDA"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/CTy27/NYC_Real_Estate_EDA"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/NYC_Real_Estate_EDA">View Demo</a>
+    <a href="https://github.com/CTy27/NYC_Real_Estate_EDA">View Demo</a>
     ·
-    <a href="https://github.com/github_username/NYC_Real_Estate_EDA/issues">Report Bug</a>
+    <a href="https://github.com/CTy27/NYC_Real_Estate_EDA/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/NYC_Real_Estate_EDA/issues">Request Feature</a>
+    <a href="https://github.com/CTy27/NYC_Real_Estate_EDA/issues">Request Feature</a>
   </p>
 </div>
 
@@ -85,7 +85,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `NYC_Real_Estate_EDA`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+Using the government reported NYC data found [here,](https://www.nyc.gov/site/finance/taxes/property-rolling-sales-data.page) I set out to explore the data       to discover insights and create regression models in hope of predicting the sale price of the property from the rest of the features in the set. This was done entirely within Python mainly using pandas, numpy and scikit learn to process the data and build the regression models.  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -93,7 +93,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [![Next][Next.js]][Next-url]
+* [![Python][Next.js]][Next-url]
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
@@ -125,7 +125,7 @@ This is an example of how to list things you need to use the software and how to
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
    ```sh
-   git clone https://github.com/github_username/NYC_Real_Estate_EDA.git
+   git clone https://github.com/CTy27/NYC_Real_Estate_EDA.git
    ```
 3. Install NPM packages
    ```sh
@@ -159,7 +159,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [ ] Feature 3
     - [ ] Nested Feature
 
-See the [open issues](https://github.com/github_username/NYC_Real_Estate_EDA/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/CTy27/NYC_Real_Estate_EDA/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -195,9 +195,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - ty.cymbalista@gmail.com
 
-Project Link: [https://github.com/github_username/NYC_Real_Estate_EDA](https://github.com/github_username/NYC_Real_Estate_EDA)
+Project Link: [https://github.com/CTy27/NYC_Real_Estate_EDA](https://github.com/CTy27/NYC_Real_Estate_EDA)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -216,21 +216,23 @@ Project Link: [https://github.com/github_username/NYC_Real_Estate_EDA](https://g
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/NYC_Real_Estate_EDA.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/NYC_Real_Estate_EDA/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/NYC_Real_Estate_EDA.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/NYC_Real_Estate_EDA/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/NYC_Real_Estate_EDA.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/NYC_Real_Estate_EDA/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/NYC_Real_Estate_EDA.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/NYC_Real_Estate_EDA/issues
-[license-shield]: https://img.shields.io/github/license/github_username/NYC_Real_Estate_EDA.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/NYC_Real_Estate_EDA/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/CTy27/NYC_Real_Estate_EDA.svg?style=for-the-badge
+[contributors-url]: https://github.com/CTy27/NYC_Real_Estate_EDA/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/CTy27/NYC_Real_Estate_EDA.svg?style=for-the-badge
+[forks-url]: https://github.com/CTy27/NYC_Real_Estate_EDA/network/members
+[stars-shield]: https://img.shields.io/github/stars/CTy27/NYC_Real_Estate_EDA.svg?style=for-the-badge
+[stars-url]: https://github.com/CTy27/NYC_Real_Estate_EDA/stargazers
+[issues-shield]: https://img.shields.io/github/issues/CTy27/NYC_Real_Estate_EDA.svg?style=for-the-badge
+[issues-url]: https://github.com/CTy27/NYC_Real_Estate_EDA/issues
+[license-shield]: https://img.shields.io/github/license/CTy27/NYC_Real_Estate_EDA.svg?style=for-the-badge
+[license-url]: https://github.com/CTy27/NYC_Real_Estate_EDA/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/ty-cymbalista/
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
+[Python.js]: https://img.shields.io/pypi/pyversions/:packageName
+[Python-url]: https://www.python.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 [Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
